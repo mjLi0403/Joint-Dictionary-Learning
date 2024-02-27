@@ -17,10 +17,3 @@ This repository contains the implementation of a novel data enhancement method a
 3. **Robust Dictionary Learning Algorithm**
    - A robust dictionary learning algorithm has been developed based on the proposed data augmentation algorithm.
    - This algorithm incorporates labeling information and local information, leading to excellent recognition results.
-
-4. **Comparisons with Existing Methods**
-   - We compared our proposed algorithm with:
-      - Sparse representation algorithms,
-      - Dictionary learning algorithms,
-      - Two sets of deep learning algorithms.
-   - Results demonstrate the effectiveness of our proposed algorithm in enhancing image classification tasks.
