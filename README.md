@@ -20,7 +20,11 @@ This repository contains the implementation of a novel data enhancement method a
 
 ## Dataset
 The dataset used in the article is a publicly available dataset. The original dataset is：
+
 ORL:Samaria, F.S. and A.C. Harter. Parameterisation of a stochastic model for human face identification. in Proceedings of 1994 IEEE workshop on applications of computer vision. 1994. IEEE.
+
 AR:Martinez, A. and R. Benavente, The ar face database: Cvc technical report, 24. 1998.
+
 GT:Georghiades, A.S., P.N. Belhumeur, and D.J. Kriegman, From few to many: Illumination cone models for face recognition under variable lighting and pose. IEEE transactions on pattern analysis and machine intelligence, 2001. 23(6): p. 643-660.
+
 FERET:Phillips, P.J., et al., The FERET evaluation methodology for face-recognition algorithms. IEEE Transactions on pattern analysis and machine intelligence, 2000. 22(10): p. 1090-1104.
