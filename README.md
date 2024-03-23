@@ -1,4 +1,4 @@
-# Joint-Dictionary-Learning-Algorithm-with-Novel-Data-Enhancement-Scheme
+# A Data Augmentation and Dictionary Learning Algorithm for Image Classification
 
 ## Overview
 
